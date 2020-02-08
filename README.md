@@ -3,7 +3,7 @@
 **Checkout the Environment to View Project**
 
 
-**Deployment**
+**Viewing Application**
 
 `npm install`
 
@@ -12,3 +12,5 @@
 cd into the build directory
 
 `npm start`
+
+enjoy app
