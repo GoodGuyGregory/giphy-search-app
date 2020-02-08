@@ -1,6 +1,6 @@
 {
-  "homepage": "http://goodguygregory.github.io/giphy-search"
-  "name": "gif-search",
+  "homepage": "http://goodguygregory.github.io/giphy-search-app",
+  "name": "gif-search-app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
